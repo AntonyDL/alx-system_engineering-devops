@@ -1,0 +1,1 @@
+Shell_permissions script projeccts
